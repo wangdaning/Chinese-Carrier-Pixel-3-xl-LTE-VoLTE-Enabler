@@ -1,0 +1,6 @@
+id=Pixel3ChinaLTE-VoLTEEnable
+name=China Pixel 3/3xl LTE-VoLTE Enable
+version=v1
+versionCode=1
+author=WangDaning
+description=Enable China LTE-VoLTE on Pixel 3/3xl. You need to delete /data/vendor/modem_fdr/fdr_check and everything in /data/vendor/radio/ before installing module.
