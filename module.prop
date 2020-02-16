@@ -4,4 +4,4 @@ version=v1
 versionCode=1
 author=WangDaning
 description=Enable China LTE-VoLTE on Pixel 3/3xl. You need to delete /data/vendor/modem_fdr/fdr_check and everything in /data/vendor/radio/ before installing module.
-安装前需要把 /data/vendor/modem_fdr/fdr_check 跟 /data/vendor/radio/ 文件的内容全部删除。
+安装前需要把 "/data/vendor/modem_fdr/fdr_check" 跟 /data/vendor/radio/ 的内容全部删掉。
