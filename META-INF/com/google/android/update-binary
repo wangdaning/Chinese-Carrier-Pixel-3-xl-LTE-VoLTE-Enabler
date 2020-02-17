@@ -15,7 +15,7 @@ ui_print() { echo "$1"; }
 
 require_new_magisk() {
   ui_print "***********************************"
-  ui_print " Please install the latest Magisk! "
+  ui_print " Chinese-Carrier-Pixel-3-xl-LTE-VoLTE-Enabler "
   ui_print "***********************************"
   exit 1
 }
